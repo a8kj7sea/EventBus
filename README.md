@@ -1,6 +1,10 @@
-## TrashEventBus
+## EventBus 
+[![](https://www.jitpack.io/v/a8kj7sea/EventBus.svg)](https://www.jitpack.io/#a8kj7sea/EventBus)
 
 This repository provides a custom event bus implementation for Java, allowing you to create and handle events with support for cancellation. It offers an easy-to-use API to register listeners, dispatch events, and manage event propagation. This system is designed to be lightweight and flexible, making it easy to integrate into various types of applications that require event-driven behavior.
+
+
+
 
 # Example of Using the Custom Event Bus
 
