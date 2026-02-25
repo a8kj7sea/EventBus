@@ -56,7 +56,7 @@ public class GameListener {
 ### 3. Initialize and Publish
 
 ```java
-FluxEngine engine = FluxBuilder.create()
+Engine engine = EngineBuilder.create()
     .invokerProvider(new BBInvokerProvider())
     .build();
 
